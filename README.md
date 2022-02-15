@@ -14,7 +14,7 @@
 
 ## Modified Version by ME
 
-**Visit the website:** [annac-photography.netlify.app](https://annac-travelly.netlify.app)
+**Visit the website:** [annac-photography.netlify.app](https://annac-photography.netlify.app)
 
 **Ingredients:**
 
@@ -27,7 +27,7 @@
 
 This is a simple photography website design based on HTML&CSS, and built from strach. I learnt from DEV ED (a web developer on Youtube). It was a interesting course based on project learning. We also created other two project. Please take a look of them. 😀
 
-* [photography](https://github.com/anna0625/annac-travelly)
+* [travelly](https://github.com/anna0625/annac-travelly)
 * [portfolio](https://github.com/anna0625/annac-portfolio)
 
 ## Certificate
